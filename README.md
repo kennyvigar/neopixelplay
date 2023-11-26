@@ -15,6 +15,7 @@ When you've connected to your Pi, install the dependancies for the hardware
 - `sudo python3 -m pip install --force-reinstall adafruit-blinka`
 
 ## Setup Pi connections to hardware
+- These are the strips I'm using - just make sure you have Addressable LEDs https://www.amazon.ca/gp/product/B01LSF4QDM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 - Note pinout - ground, power (5v) and GPIO pin 18 for data
 <img width="1091" alt="image" src="https://github.com/kennyvigar/neopixelplay/assets/23610226/0d0bd6bd-70c6-45e5-8e47-dd77465921aa">
 
